@@ -19,6 +19,9 @@ Open the notebook file in Jupyter and the code runs as follows:
 5. The user can **continue entering inputs** for more recommendations.
 6. Before exiting, the system asks for the user's **salary expectation** (as required in the task).
 
+## Outputs
+![image](https://github.com/user-attachments/assets/359762ce-f07a-4751-aeaf-768a5a1d7821)
+
 ## Setup Instructions
 
 ### **Install Dependencies**
