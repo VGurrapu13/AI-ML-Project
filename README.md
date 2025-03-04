@@ -1,5 +1,5 @@
-# AI-ML-Project
-Content Based Recommendation System 
+# Content Based Recommendation System 
+AI, ML Project
 
 ## Overview
 This project is a **content-based recommendation system** that suggests books based on a short text description provided by the user. It utilizes **TF-IDF vectorization** and **cosine similarity** to find books with the most relevant descriptions.
